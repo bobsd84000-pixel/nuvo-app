@@ -1,0 +1,44 @@
+{
+  "package.json": {
+    "mtime": 1792614231.9254372,
+    "seen": 1792614255.2917407,
+    "ast_hash": "0058eb826b0837d21431e004e8153a42",
+    "semantic_hash": ""
+  },
+  "src/main.jsx": {
+    "mtime": 1792614231.9254372,
+    "seen": 1792614255.2917488,
+    "ast_hash": "74901a6569bbf3a0a82236881620a27d",
+    "semantic_hash": ""
+  },
+  "src/nuvo.jsx": {
+    "mtime": 1792614231.9261727,
+    "seen": 1792614255.291752,
+    "ast_hash": "b7a283b9342b22f3a4a9b2c556686f23",
+    "semantic_hash": ""
+  },
+  "src/src/components/AuroraBg.jsx": {
+    "mtime": 1792614231.9263723,
+    "seen": 1792614255.2917545,
+    "ast_hash": "4270d4dfda4357d09b70e0060b9b3976",
+    "semantic_hash": ""
+  },
+  "vite.config.js": {
+    "mtime": 1792614231.9263723,
+    "seen": 1792614255.2917566,
+    "ast_hash": "84a1ac0f0482564ee2cd048216282379",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1792614231.9254372,
+    "seen": 1792614255.2917583,
+    "ast_hash": "8e28f081a21d30c681ff82a0fdb845e7",
+    "semantic_hash": ""
+  },
+  "index.html": {
+    "mtime": 1792614231.9254372,
+    "seen": 1792614255.2917604,
+    "ast_hash": "02309b368a150829b31191382439646a",
+    "semantic_hash": ""
+  }
+}
